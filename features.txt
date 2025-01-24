@@ -1,0 +1,9 @@
+Ajouter une validation de schéma avec Pydantic
+
+Implémenter le stockage dans une base de données
+
+Développer la logique de backtesting réelle
+
+Ajouter une authentification API
+
+Implémenter le traitement asynchrone pour les gros datasets

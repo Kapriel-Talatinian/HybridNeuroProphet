@@ -1,0 +1,102 @@
+2025-01-22 23:16:48,881 - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2025-01-22 23:16:48,956 - DEBUG - Adding TBB (C:\Users\Topge\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2025-01-22 23:16:48,976 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.153:5000
+2025-01-22 23:16:48,977 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-22 23:23:56,148 - ERROR - Erreur backtest: predict() takes 0 positional arguments but 1 was given
+2025-01-22 23:23:56,148 - INFO - 127.0.0.1 - - [22/Jan/2025 23:23:56] "[35m[1mPOST /backtest HTTP/1.1[0m" 500 -
+2025-01-22 23:26:55,391 - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2025-01-22 23:26:55,460 - DEBUG - Adding TBB (C:\Users\Topge\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2025-01-22 23:26:55,476 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.153:5000
+2025-01-22 23:26:55,476 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-22 23:27:03,945 - INFO - Données reçues pour prédiction
+2025-01-22 23:27:03,946 - ERROR - Erreur prédiction: Champ manquant: prices
+2025-01-22 23:27:03,946 - ERROR - Erreur backtest: 'timestamps'
+2025-01-22 23:27:03,946 - INFO - 127.0.0.1 - - [22/Jan/2025 23:27:03] "[35m[1mPOST /backtest HTTP/1.1[0m" 500 -
+2025-01-22 23:29:43,454 - INFO - Données reçues pour prédiction
+2025-01-22 23:29:43,455 - ERROR - Erreur prédiction: Champ manquant: prices
+2025-01-22 23:29:43,455 - ERROR - Erreur backtest: 'timestamps'
+2025-01-22 23:29:43,455 - INFO - 127.0.0.1 - - [22/Jan/2025 23:29:43] "[35m[1mPOST /backtest HTTP/1.1[0m" 500 -
+2025-01-22 23:35:45,417 - INFO - Données reçues pour prédiction
+2025-01-22 23:35:45,417 - ERROR - Erreur prédiction: Champ manquant: prices
+2025-01-22 23:35:45,417 - ERROR - Erreur backtest: 'str' object has no attribute 'get'
+2025-01-22 23:35:45,418 - INFO - 127.0.0.1 - - [22/Jan/2025 23:35:45] "[35m[1mPOST /backtest HTTP/1.1[0m" 500 -
+2025-01-22 23:35:47,576 - INFO - Données reçues pour prédiction
+2025-01-22 23:35:47,576 - ERROR - Erreur prédiction: Champ manquant: prices
+2025-01-22 23:35:47,576 - ERROR - Erreur backtest: 'str' object has no attribute 'get'
+2025-01-22 23:35:47,576 - INFO - 127.0.0.1 - - [22/Jan/2025 23:35:47] "[35m[1mPOST /backtest HTTP/1.1[0m" 500 -
+2025-01-22 23:35:49,621 - INFO - Données reçues pour prédiction
+2025-01-22 23:35:49,621 - ERROR - Erreur prédiction: Champ manquant: prices
+2025-01-22 23:35:49,621 - ERROR - Erreur backtest: 'str' object has no attribute 'get'
+2025-01-22 23:35:49,621 - INFO - 127.0.0.1 - - [22/Jan/2025 23:35:49] "[35m[1mPOST /backtest HTTP/1.1[0m" 500 -
+2025-01-22 23:35:51,672 - INFO - Données reçues pour prédiction
+2025-01-22 23:35:51,672 - ERROR - Erreur prédiction: Champ manquant: prices
+2025-01-22 23:35:51,672 - ERROR - Erreur backtest: 'str' object has no attribute 'get'
+2025-01-22 23:35:51,672 - INFO - 127.0.0.1 - - [22/Jan/2025 23:35:51] "[35m[1mPOST /backtest HTTP/1.1[0m" 500 -
+2025-01-22 23:35:53,715 - INFO - Données reçues pour prédiction
+2025-01-22 23:35:53,715 - ERROR - Erreur prédiction: Champ manquant: prices
+2025-01-22 23:35:53,715 - ERROR - Erreur backtest: 'str' object has no attribute 'get'
+2025-01-22 23:35:53,715 - INFO - 127.0.0.1 - - [22/Jan/2025 23:35:53] "[35m[1mPOST /backtest HTTP/1.1[0m" 500 -
+2025-01-22 23:35:55,763 - INFO - Données reçues pour prédiction
+2025-01-22 23:35:55,763 - ERROR - Erreur prédiction: Champ manquant: prices
+2025-01-22 23:35:55,763 - ERROR - Erreur backtest: 'str' object has no attribute 'get'
+2025-01-22 23:35:55,764 - INFO - 127.0.0.1 - - [22/Jan/2025 23:35:55] "[35m[1mPOST /backtest HTTP/1.1[0m" 500 -
+2025-01-22 23:35:57,807 - INFO - Données reçues pour prédiction
+2025-01-22 23:35:57,808 - ERROR - Erreur prédiction: Champ manquant: prices
+2025-01-22 23:35:57,808 - ERROR - Erreur backtest: 'str' object has no attribute 'get'
+2025-01-22 23:35:57,808 - INFO - 127.0.0.1 - - [22/Jan/2025 23:35:57] "[35m[1mPOST /backtest HTTP/1.1[0m" 500 -
+2025-01-22 23:35:59,850 - INFO - Données reçues pour prédiction
+2025-01-22 23:35:59,850 - ERROR - Erreur prédiction: Champ manquant: prices
+2025-01-22 23:35:59,850 - ERROR - Erreur backtest: 'str' object has no attribute 'get'
+2025-01-22 23:35:59,851 - INFO - 127.0.0.1 - - [22/Jan/2025 23:35:59] "[35m[1mPOST /backtest HTTP/1.1[0m" 500 -
+2025-01-22 23:36:01,886 - INFO - Données reçues pour prédiction
+2025-01-22 23:36:01,886 - ERROR - Erreur prédiction: Champ manquant: prices
+2025-01-22 23:36:01,886 - ERROR - Erreur backtest: 'str' object has no attribute 'get'
+2025-01-22 23:36:01,886 - INFO - 127.0.0.1 - - [22/Jan/2025 23:36:01] "[35m[1mPOST /backtest HTTP/1.1[0m" 500 -
+2025-01-22 23:36:03,923 - INFO - Données reçues pour prédiction
+2025-01-22 23:36:03,923 - ERROR - Erreur prédiction: Champ manquant: prices
+2025-01-22 23:36:03,923 - ERROR - Erreur backtest: 'str' object has no attribute 'get'
+2025-01-22 23:36:03,924 - INFO - 127.0.0.1 - - [22/Jan/2025 23:36:03] "[35m[1mPOST /backtest HTTP/1.1[0m" 500 -
+2025-01-22 23:36:05,974 - INFO - Données reçues pour prédiction
+2025-01-22 23:36:05,974 - ERROR - Erreur prédiction: Champ manquant: prices
+2025-01-22 23:36:05,974 - ERROR - Erreur backtest: 'str' object has no attribute 'get'
+2025-01-22 23:36:05,974 - INFO - 127.0.0.1 - - [22/Jan/2025 23:36:05] "[35m[1mPOST /backtest HTTP/1.1[0m" 500 -
+2025-01-22 23:36:08,022 - INFO - Données reçues pour prédiction
+2025-01-22 23:36:08,023 - ERROR - Erreur prédiction: Champ manquant: prices
+2025-01-22 23:36:08,023 - ERROR - Erreur backtest: 'str' object has no attribute 'get'
+2025-01-22 23:36:08,023 - INFO - 127.0.0.1 - - [22/Jan/2025 23:36:08] "[35m[1mPOST /backtest HTTP/1.1[0m" 500 -
+2025-01-22 23:36:10,058 - INFO - Données reçues pour prédiction
+2025-01-22 23:36:10,058 - ERROR - Erreur prédiction: Champ manquant: prices
+2025-01-22 23:36:10,058 - ERROR - Erreur backtest: 'str' object has no attribute 'get'
+2025-01-22 23:36:10,058 - INFO - 127.0.0.1 - - [22/Jan/2025 23:36:10] "[35m[1mPOST /backtest HTTP/1.1[0m" 500 -
+2025-01-22 23:36:12,109 - INFO - Données reçues pour prédiction
+2025-01-22 23:36:12,109 - ERROR - Erreur prédiction: Champ manquant: prices
+2025-01-22 23:36:12,109 - ERROR - Erreur backtest: 'str' object has no attribute 'get'
+2025-01-22 23:36:12,109 - INFO - 127.0.0.1 - - [22/Jan/2025 23:36:12] "[35m[1mPOST /backtest HTTP/1.1[0m" 500 -
+2025-01-22 23:36:14,154 - INFO - Données reçues pour prédiction
+2025-01-22 23:36:14,154 - ERROR - Erreur prédiction: Champ manquant: prices
+2025-01-22 23:36:14,154 - ERROR - Erreur backtest: 'str' object has no attribute 'get'
+2025-01-22 23:36:14,154 - INFO - 127.0.0.1 - - [22/Jan/2025 23:36:14] "[35m[1mPOST /backtest HTTP/1.1[0m" 500 -
+2025-01-22 23:36:16,201 - INFO - Données reçues pour prédiction
+2025-01-22 23:36:16,201 - ERROR - Erreur prédiction: Champ manquant: prices
+2025-01-22 23:36:16,201 - ERROR - Erreur backtest: 'str' object has no attribute 'get'
+2025-01-22 23:36:16,202 - INFO - 127.0.0.1 - - [22/Jan/2025 23:36:16] "[35m[1mPOST /backtest HTTP/1.1[0m" 500 -
+2025-01-22 23:36:18,235 - INFO - Données reçues pour prédiction
+2025-01-22 23:36:18,236 - ERROR - Erreur prédiction: Champ manquant: prices
+2025-01-22 23:36:18,236 - ERROR - Erreur backtest: 'str' object has no attribute 'get'
+2025-01-22 23:36:18,236 - INFO - 127.0.0.1 - - [22/Jan/2025 23:36:18] "[35m[1mPOST /backtest HTTP/1.1[0m" 500 -
+2025-01-22 23:36:20,277 - INFO - Données reçues pour prédiction
+2025-01-22 23:36:20,277 - ERROR - Erreur prédiction: Champ manquant: prices
+2025-01-22 23:36:20,277 - ERROR - Erreur backtest: 'str' object has no attribute 'get'
+2025-01-22 23:36:20,278 - INFO - 127.0.0.1 - - [22/Jan/2025 23:36:20] "[35m[1mPOST /backtest HTTP/1.1[0m" 500 -
+2025-01-22 23:36:22,312 - INFO - Données reçues pour prédiction
+2025-01-22 23:36:22,312 - ERROR - Erreur prédiction: Champ manquant: prices
+2025-01-22 23:36:22,313 - ERROR - Erreur backtest: 'str' object has no attribute 'get'
+2025-01-22 23:36:22,313 - INFO - 127.0.0.1 - - [22/Jan/2025 23:36:22] "[35m[1mPOST /backtest HTTP/1.1[0m" 500 -
